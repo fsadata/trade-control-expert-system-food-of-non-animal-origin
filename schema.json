@@ -1,0 +1,255 @@
+{
+	"fields": [
+		{
+			"name": "DeclarationDate",
+			"title": "DeclarationDate",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                                "datePattern": "%Y-%M-%d"
+			}
+		},
+		{
+			"name": "YearOfDeclaration",
+			"title": "YearOfDeclaration",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#gYear"
+			}
+		},
+		{
+			"name": "QuarterOfDeclaration",
+			"title": "QuarterOfDeclaration",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "MonthOfDeclaration",
+			"title": "MonthOfDeclaration",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "DayOfDeclaration",
+			"title": "DayOfDeclaration",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "DecisionControlDate_Month",
+			"title": "DecisionControlDate_Month",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                                "datePattern": "%Y-%M"
+			}
+		},
+		{
+			"name": "ControlDate",
+			"title": "ControlDate",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "ConsignorCountryCode",
+			"title": "ConsignorCountryCode",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "DPE_Name",
+			"title": "DPE_Name",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "ConsigneeCountry",
+			"title": "ConsigneeCountry",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "CountryOfOrigin",
+			"title": "CountryOfOrigin",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "ImporterCountry",
+			"title": "ImporterCountry",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "DeliveryCountry",
+			"title": "DeliveryCountry",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "CommodityCode",
+			"title": "CommodityCode",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "DescriptionOfCommodity",
+			"title": "DescriptionOfCommodity",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "TotalNumberOfPackages",
+			"title": "TotalNumberOfPackages",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "TotalNetWeight_kg",
+			"title": "TotalNetWeight_kg",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#float"
+			}
+		},
+		{
+			"name": "CommodityIntendedFor",
+			"title": "CommodityIntendedFor",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "DocumentaryCheck",
+			"title": "DocumentaryCheck",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "AcceptableForTransfer",
+			"title": "AcceptableForTransfer",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "NotAcceptable1",
+			"title": "NotAcceptable ",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "IdentityCheck",
+			"title": "IdentityCheck",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "PhysicalCheck",
+			"title": "PhysicalCheck",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "LaboratoryTests",
+			"title": "LaboratoryTests",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "TestedFor",
+			"title": "TestedFor",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "Results",
+			"title": "Results",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "AcceptableForReleaseForFreeCirculation",
+			"title": "AcceptableForReleaseForFreeCirculation ",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "NotAcceptable2",
+			"title": "NotAcceptable",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "ReasonForRefusal",
+			"title": "ReasonForRefusal",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "DecsionControlDate",
+			"title": "DecsionControlDate",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                                "datePattern": "%Y-%M"
+			}
+		},
+		{
+			"name": "NumberOfConsignments",
+			"title": "NumberOfConsignments",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		}
+	]
+}
