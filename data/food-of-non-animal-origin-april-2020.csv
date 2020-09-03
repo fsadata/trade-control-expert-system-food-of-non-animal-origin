@@ -1,0 +1,500 @@
+CommoditiesGroup,Declaration,DeclarationYear,DeclarationQuarter,DeclarationMonth,DeclarationDay,CountryOfOrigin,ArrivalAtEntryPoint,Commodities,CommonNames,DocumentaryCheck,DocumentaryCheckResults,IdentityCheck,IdentityCheckResults,PhysicalCheck,PhysicalCheckResults,CommodityLaboratoryTest,CommodityLaboratoryTestResults,NetWeightKg,GrossWeightKg,NotAcceptable,NotAcceptableMeasureSelection,ReasonForRefusal,Decision,Year,Quarter,Month,Day
+Animal feed,2020-04-28,2020,Q2,4,28,United States,2020-04-28,23099010,Fish or marine mammal solubles,No,-,No,-,No,-,No,-,567,567,No,-,-,,,,,
+Animal or vegetable fats and oils,2020-04-08,2020,Q2,4,8,Ghana,2020-04-07,15119099,Other,Yes,Satisfactory,No,-,No,-,No,-,3600,4000,No,-,-,2020-04-17,2020,Q2,4,17
+Animal or vegetable fats and oils,2020-04-06,2020,Q2,4,6,Ghana,2020-04-06,15111090,Other than 1511 10 10,No,-,No,-,No,-,No,-,4875,0,No,-,-,,,,,
+Animal or vegetable fats and oils,2020-04-07,2020,Q2,4,7,Ghana,2020-04-06,15111090,Other than 1511 10 10,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,No,-,150,175,No,-,-,2020-04-08,2020,Q2,4,8
+Animal or vegetable fats and oils,2020-04-22,2020,Q2,4,22,Ghana,2020-04-19,15119011,In immediate packings of a net content not exceeding 1|kg,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,13126,13744,No,-,-,2020-04-30,2020,Q2,4,30
+Animal or vegetable fats and oils,2020-04-29,2020,Q2,4,29,Ghana,2020-04-29,15119099,Other,Yes,Satisfactory,No,-,No,-,No,-,5096,5147.2,No,-,-,2020-04-30,2020,Q2,4,30
+Cereals,2020-04-17,2020,Q2,4,17,China,2020-03-24,10063063,Medium grain,Yes,Not satisfactory,Yes,Satisfactory,No,-,No,-,3240,3564,Yes,Destruction,Absence of original certificate,2020-05-01,2020,Q2,5,1
+Cereals,2020-04-17,2020,Q2,4,17,China,2020-03-24,10063063,Medium grain,Yes,Not satisfactory,Yes,Satisfactory,No,-,No,-,810,891,Yes,Destruction,Absence of original certificate,2020-05-01,2020,Q2,5,1
+Cocoa,2020-04-16,2020,Q2,4,16,Turkey,2020-04-21,18063100,Filled,Yes,Satisfactory,No,-,No,-,No,-,509.18,575.28,No,-,-,2020-04-21,2020,Q2,4,21
+Cocoa,2020-04-16,2020,Q2,4,16,Turkey,2020-04-21,18063100,Filled,Yes,Satisfactory,No,-,No,-,No,-,1231.2,1453.5,No,-,-,2020-04-21,2020,Q2,4,21
+Cocoa,2020-04-16,2020,Q2,4,16,Turkey,2020-04-21,18063100,Filled,Yes,Satisfactory,No,-,No,-,No,-,163.2,190.4,No,-,-,2020-04-21,2020,Q2,4,21
+Cocoa,2020-04-16,2020,Q2,4,16,Turkey,2020-04-21,18063100,Filled,Yes,Satisfactory,No,-,No,-,No,-,410.4,484.5,No,-,-,2020-04-21,2020,Q2,4,21
+Cocoa,2020-04-16,2020,Q2,4,16,Turkey,2020-04-21,18063100,Filled,Yes,Satisfactory,No,-,No,-,No,-,205.2,242.25,No,-,-,2020-04-21,2020,Q2,4,21
+"Coffee, tea, mate and spices",2020-04-22,2020,Q2,4,22,Indonesia,2020-03-17,9081200,Crushed or ground,Yes,Satisfactory,No,-,No,-,No,-,7500,7608,No,-,-,2020-04-23,2020,Q2,4,23
+"Coffee, tea, mate and spices",2020-04-08,2020,Q2,4,8,India,2020-03-24,9024000,Other black tea (fermented) and other partly fermented tea,Yes,Satisfactory,No,-,No,-,No,-,30,32,No,-,-,2020-04-18,2020,Q2,4,18
+"Coffee, tea, mate and spices",2020-04-07,2020,Q2,4,7,India,2020-03-29,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,3150,3360,No,-,-,2020-04-16,2020,Q2,4,16
+"Coffee, tea, mate and spices",2020-04-07,2020,Q2,4,7,India,2020-03-29,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,1800,1920,No,-,-,2020-04-16,2020,Q2,4,16
+"Coffee, tea, mate and spices",2020-04-02,2020,Q2,4,2,United States,2020-04-04,9021000,Green tea (not fermented) in immediate packings of a content not exceeding 3|kg,Yes,Satisfactory,No,-,No,-,No,-,291.22,704.49,No,-,-,2020-04-02,2020,Q2,4,2
+"Coffee, tea, mate and spices",2020-04-02,2020,Q2,4,2,United States,2020-04-04,9023000,"Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3|kg",Yes,Satisfactory,No,-,No,-,No,-,403.27,704.49,No,-,-,2020-04-02,2020,Q2,4,2
+"Coffee, tea, mate and spices",2020-04-08,2020,Q2,4,8,India,2020-03-30,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,6750,6950,No,-,-,2020-04-11,2020,Q2,4,11
+"Coffee, tea, mate and spices",2020-04-01,2020,Q2,4,1,India,2020-04-05,9109105,Curry,No,-,No,-,No,-,No,-,1700,1766.35,No,-,-,,,,,
+"Coffee, tea, mate and spices",2020-04-02,2020,Q2,4,2,India,2020-04-08,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,2250,2392.5,No,-,-,2020-04-09,2020,Q2,4,9
+"Coffee, tea, mate and spices",2020-04-06,2020,Q2,4,6,India,2020-03-20,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,150,172,No,-,-,2020-04-07,2020,Q2,4,7
+"Coffee, tea, mate and spices",2020-04-07,2020,Q2,4,7,China,2020-04-08,9022000,Other green tea (not fermented),Yes,Satisfactory,No,-,No,-,No,-,10000,10120,No,-,-,2020-04-09,2020,Q2,4,9
+"Coffee, tea, mate and spices",2020-04-07,2020,Q2,4,7,China,2020-04-08,9022000,Other green tea (not fermented),Yes,Satisfactory,No,-,No,-,No,-,24200,24508,No,-,-,2020-04-09,2020,Q2,4,9
+"Coffee, tea, mate and spices",2020-04-07,2020,Q2,4,7,India,2020-03-31,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,5680,6248,No,-,-,2020-04-08,2020,Q2,4,8
+"Coffee, tea, mate and spices",2020-04-07,2020,Q2,4,7,India,2020-03-31,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,9600,10320,No,-,-,2020-04-08,2020,Q2,4,8
+"Coffee, tea, mate and spices",2020-04-07,2020,Q2,4,7,India,2020-03-31,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,5400,5715,No,-,-,2020-04-08,2020,Q2,4,8
+"Coffee, tea, mate and spices",2020-04-08,2020,Q2,4,8,India,2020-03-30,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,5600,5832,No,-,-,2020-04-11,2020,Q2,4,11
+"Coffee, tea, mate and spices",2020-04-08,2020,Q2,4,8,India,2020-04-11,9042110,Sweet peppers,Yes,Satisfactory,No,-,No,-,No,-,150,200,No,-,-,2020-04-14,2020,Q2,4,14
+"Coffee, tea, mate and spices",2020-04-08,2020,Q2,4,8,India,2020-03-30,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,6750,6950,No,-,-,2020-04-11,2020,Q2,4,11
+"Coffee, tea, mate and spices",2020-04-08,2020,Q2,4,8,India,2020-03-30,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,5600,5832,No,-,-,2020-04-11,2020,Q2,4,11
+"Coffee, tea, mate and spices",2020-04-08,2020,Q2,4,8,China,2020-04-07,9021000,Green tea (not fermented) in immediate packings of a content not exceeding 3|kg,Yes,Satisfactory,No,-,No,-,No,-,4599,6879.5,No,-,-,2020-04-11,2020,Q2,4,11
+"Coffee, tea, mate and spices",2020-04-08,2020,Q2,4,8,China,2020-04-07,9023000,"Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3|kg",Yes,Satisfactory,No,-,No,-,No,-,1076,2273.5,No,-,-,2020-04-11,2020,Q2,4,11
+"Coffee, tea, mate and spices",2020-04-09,2020,Q2,4,9,India,2020-04-11,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,2080,2101,No,-,-,2020-04-14,2020,Q2,4,14
+"Coffee, tea, mate and spices",2020-04-09,2020,Q2,4,9,India,2020-04-09,904220011,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,No,-,No,-,No,-,1820,1838,No,-,-,2020-04-14,2020,Q2,4,14
+"Coffee, tea, mate and spices",2020-04-09,2020,Q2,4,9,India,2020-04-11,9109110,Neither crushed nor ground,Yes,Satisfactory,No,-,No,-,No,-,1980,2000,No,-,-,2020-04-14,2020,Q2,4,14
+"Coffee, tea, mate and spices",2020-04-09,2020,Q2,4,9,India,2020-04-11,9109110,Neither crushed nor ground,Yes,Satisfactory,No,-,No,-,No,-,980,990,No,-,-,2020-04-14,2020,Q2,4,14
+"Coffee, tea, mate and spices",2020-04-09,2020,Q2,4,9,China,2020-04-09,9022000,Other green tea (not fermented),Yes,Satisfactory,No,-,No,-,No,-,1840,3387,No,-,-,2020-04-18,2020,Q2,4,18
+"Coffee, tea, mate and spices",2020-04-10,2020,Q2,4,10,China,2020-04-10,9021000,Green tea (not fermented) in immediate packings of a content not exceeding 3|kg,Yes,Satisfactory,No,-,No,-,No,-,270.72,891,No,-,-,2020-04-18,2020,Q2,4,18
+"Coffee, tea, mate and spices",2020-04-14,2020,Q2,4,14,India,2020-04-14,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,12500,12575,No,-,-,2020-04-15,2020,Q2,4,15
+"Coffee, tea, mate and spices",2020-04-14,2020,Q2,4,14,India,2020-04-07,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,7340,8074,No,-,-,2020-04-15,2020,Q2,4,15
+"Coffee, tea, mate and spices",2020-04-14,2020,Q2,4,14,India,2020-04-07,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,7200,7740,No,-,-,2020-04-15,2020,Q2,4,15
+"Coffee, tea, mate and spices",2020-04-14,2020,Q2,4,14,India,2020-04-07,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,5700,6033,No,-,-,2020-04-15,2020,Q2,4,15
+"Coffee, tea, mate and spices",2020-04-20,2020,Q2,4,20,India,2020-04-16,904220090,Other,Yes,Satisfactory,No,-,No,-,No,-,250,1020,No,-,-,2020-04-22,2020,Q2,4,22
+"Coffee, tea, mate and spices",2020-04-16,2020,Q2,4,16,India,2020-04-11,904220090,Other,Yes,Satisfactory,No,-,No,-,No,-,250,255,No,-,-,2020-04-16,2020,Q2,4,16
+"Coffee, tea, mate and spices",2020-04-14,2020,Q2,4,14,Sri Lanka,2020-04-01,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,14.9,18.9,No,-,-,2020-04-14,2020,Q2,4,14
+"Coffee, tea, mate and spices",2020-04-14,2020,Q2,4,14,India,2020-03-20,904220019,Other,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,4000,4044,No,-,-,2020-05-06,2020,Q2,5,6
+"Coffee, tea, mate and spices",2020-04-14,2020,Q2,4,14,India,2020-03-20,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,3800,3841.8,No,-,-,2020-04-21,2020,Q2,4,21
+"Coffee, tea, mate and spices",2020-04-16,2020,Q2,4,16,India,2020-04-10,904220011,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,No,-,No,-,No,-,4635,9794,No,-,-,2020-04-20,2020,Q2,4,20
+"Coffee, tea, mate and spices",2020-04-16,2020,Q2,4,16,India,2020-04-10,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,3240,9794,No,-,-,2020-04-20,2020,Q2,4,20
+"Coffee, tea, mate and spices",2020-04-16,2020,Q2,4,16,India,2020-04-17,9081100,Neither crushed nor ground,Yes,Satisfactory,No,-,No,-,No,-,24,29,No,-,-,2020-04-18,2020,Q2,4,18
+"Coffee, tea, mate and spices",2020-04-16,2020,Q2,4,16,India,2020-04-17,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,198,220,No,-,-,2020-04-18,2020,Q2,4,18
+"Coffee, tea, mate and spices",2020-04-16,2020,Q2,4,16,India,2020-04-17,904219020,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,No,-,No,-,No,-,213.6,258.1,No,-,-,2020-04-18,2020,Q2,4,18
+"Coffee, tea, mate and spices",2020-04-16,2020,Q2,4,16,India,2020-04-17,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,546,595,No,-,-,2020-04-18,2020,Q2,4,18
+"Coffee, tea, mate and spices",2020-04-16,2020,Q2,4,16,India,2020-04-17,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,1000,1075,No,-,-,2020-04-18,2020,Q2,4,18
+"Coffee, tea, mate and spices",2020-04-15,2020,Q2,4,15,United States,2020-04-15,9023000,"Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3|kg",Yes,Satisfactory,No,-,No,-,No,-,1449.68,1459.68,No,-,-,2020-04-17,2020,Q2,4,17
+"Coffee, tea, mate and spices",2020-04-15,2020,Q2,4,15,India,2020-04-17,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,3000,3375,No,-,-,2020-04-29,2020,Q2,4,29
+"Coffee, tea, mate and spices",2020-04-15,2020,Q2,4,15,India,2020-04-17,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,5400,5895,No,-,-,2020-04-29,2020,Q2,4,29
+"Coffee, tea, mate and spices",2020-04-15,2020,Q2,4,15,India,2020-04-17,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,1200,1440,No,-,-,2020-04-29,2020,Q2,4,29
+"Coffee, tea, mate and spices",2020-04-15,2020,Q2,4,15,India,2020-04-14,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,1600,1608.96,No,-,-,2020-04-16,2020,Q2,4,16
+"Coffee, tea, mate and spices",2020-04-16,2020,Q2,4,16,China,2020-04-12,9022000,Other green tea (not fermented),Yes,Satisfactory,No,-,No,-,No,-,12960,14040,No,-,-,2020-04-21,2020,Q2,4,21
+"Coffee, tea, mate and spices",2020-04-16,2020,Q2,4,16,China,2020-04-16,904220011,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,No,-,No,-,No,-,15000,15110,No,-,-,2020-04-21,2020,Q2,4,21
+"Coffee, tea, mate and spices",2020-04-16,2020,Q2,4,16,India,2020-04-16,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,12500,12575,No,-,-,2020-04-23,2020,Q2,4,23
+"Coffee, tea, mate and spices",2020-04-17,2020,Q2,4,17,China,2020-04-18,904220011,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,No,-,No,-,No,-,25000,25200,No,-,-,2020-04-21,2020,Q2,4,21
+"Coffee, tea, mate and spices",2020-04-21,2020,Q2,4,21,China,2020-04-24,9021000,Green tea (not fermented) in immediate packings of a content not exceeding 3|kg,Yes,Satisfactory,No,-,No,-,No,-,1310.51,1320.51,No,-,-,2020-04-21,2020,Q2,4,21
+"Coffee, tea, mate and spices",2020-04-17,2020,Q2,4,17,India,2020-04-18,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,6000,6054,No,-,-,2020-05-05,2020,Q2,5,5
+"Coffee, tea, mate and spices",2020-04-17,2020,Q2,4,17,India,2020-04-18,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,9000,9081,No,-,-,2020-05-05,2020,Q2,5,5
+"Coffee, tea, mate and spices",2020-04-17,2020,Q2,4,17,India,2020-04-18,904219020,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,No,-,No,-,No,-,1000,1007.2,No,-,-,2020-05-05,2020,Q2,5,5
+"Coffee, tea, mate and spices",2020-04-17,2020,Q2,4,17,India,2020-04-17,9042110,Sweet peppers,Yes,Satisfactory,No,-,No,-,No,-,1500,1533,No,-,-,2020-04-28,2020,Q2,4,28
+"Coffee, tea, mate and spices",2020-04-17,2020,Q2,4,17,India,2020-04-17,9109190,Crushed or ground,Yes,Satisfactory,No,-,No,-,No,-,2000,2017,No,-,-,2020-04-28,2020,Q2,4,28
+"Coffee, tea, mate and spices",2020-04-17,2020,Q2,4,17,India,2020-04-17,9042110,Sweet peppers,Yes,Satisfactory,No,-,No,-,No,-,400,408,No,-,-,2020-04-28,2020,Q2,4,28
+"Coffee, tea, mate and spices",2020-04-22,2020,Q2,4,22,India,2020-04-15,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,144,160,No,-,-,2020-04-27,2020,Q2,4,27
+"Coffee, tea, mate and spices",2020-04-20,2020,Q2,4,20,India,2020-04-20,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,3000,3380,No,-,-,2020-04-21,2020,Q2,4,21
+"Coffee, tea, mate and spices",2020-04-20,2020,Q2,4,20,India,2020-04-20,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,3125,3500,No,-,-,2020-04-21,2020,Q2,4,21
+"Coffee, tea, mate and spices",2020-04-20,2020,Q2,4,20,India,2020-04-20,904219020,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,No,-,No,-,No,-,2250,2760,No,-,-,2020-04-21,2020,Q2,4,21
+"Coffee, tea, mate and spices",2020-04-20,2020,Q2,4,20,India,2020-04-20,904220019,Other,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,1000,1100,No,-,-,2020-04-28,2020,Q2,4,28
+"Coffee, tea, mate and spices",2020-04-20,2020,Q2,4,20,India,2020-04-15,904220090,Other,Yes,Satisfactory,No,-,No,-,No,-,125,175,No,-,-,2020-04-21,2020,Q2,4,21
+"Coffee, tea, mate and spices",2020-04-21,2020,Q2,4,21,China,2020-04-23,9021000,Green tea (not fermented) in immediate packings of a content not exceeding 3|kg,Yes,Satisfactory,No,-,No,-,No,-,864,959,No,-,-,2020-04-23,2020,Q2,4,23
+"Coffee, tea, mate and spices",2020-04-23,2020,Q2,4,23,China,2020-04-12,9023000,"Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3|kg",Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,112,124,No,-,-,2020-05-05,2020,Q2,5,5
+"Coffee, tea, mate and spices",2020-04-23,2020,Q2,4,23,China,2020-04-22,9021000,Green tea (not fermented) in immediate packings of a content not exceeding 3|kg,Yes,Satisfactory,No,-,No,-,No,-,520.25,619,No,-,-,2020-04-24,2020,Q2,4,24
+"Coffee, tea, mate and spices",2020-04-23,2020,Q2,4,23,China,2020-04-22,9023000,"Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3|kg",Yes,Satisfactory,No,-,No,-,No,-,20.2,619,No,-,-,2020-04-24,2020,Q2,4,24
+"Coffee, tea, mate and spices",2020-04-23,2020,Q2,4,23,China,2020-04-28,904220011,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,No,-,No,-,No,-,10000,10500,No,-,-,2020-04-27,2020,Q2,4,27
+"Coffee, tea, mate and spices",2020-04-23,2020,Q2,4,23,China,2020-04-25,904220011,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,No,-,No,-,No,-,1000,11760,No,-,-,2020-04-24,2020,Q2,4,24
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,India,2020-04-23,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,3300,3718,No,-,-,2020-05-07,2020,Q2,5,7
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,India,2020-04-23,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,4500,4820,No,-,-,2020-05-07,2020,Q2,5,7
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,India,2020-04-23,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,4800,5080,No,-,-,2020-05-07,2020,Q2,5,7
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,India,2020-04-23,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,1250,1258,No,-,-,2020-05-11,2020,Q2,5,11
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,India,2020-03-30,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,600,825,No,-,-,2020-05-15,2020,Q2,5,15
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,India,2020-03-30,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,2700,3488,No,-,-,2020-05-15,2020,Q2,5,15
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,India,2020-04-11,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,9000,9720,No,-,-,2020-05-01,2020,Q2,5,1
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,India,2020-04-11,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,5400,6048,No,-,-,2020-04-28,2020,Q2,4,28
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,India,2020-04-11,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,1500,1838,No,-,-,2020-04-28,2020,Q2,4,28
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,China,2020-04-26,9022000,Other green tea (not fermented),Yes,Satisfactory,No,-,No,-,No,-,24200,24508,No,-,-,2020-04-27,2020,Q2,4,27
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,China,2020-04-26,9022000,Other green tea (not fermented),Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,24200,24508,No,-,-,2020-05-11,2020,Q2,5,11
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,China,2020-04-26,9022000,Other green tea (not fermented),Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,24200,24508,No,-,-,2020-05-11,2020,Q2,5,11
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,China,2020-04-26,9022000,Other green tea (not fermented),Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,24200,24508,No,-,-,2020-05-11,2020,Q2,5,11
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,China,2020-04-26,9022000,Other green tea (not fermented),Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,24200,24508,No,-,-,2020-05-11,2020,Q2,5,11
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,China,2020-04-26,9022000,Other green tea (not fermented),Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,24200,24508,No,-,-,2020-05-11,2020,Q2,5,11
+"Coffee, tea, mate and spices",2020-04-24,2020,Q2,4,24,China,2020-04-26,9022000,Other green tea (not fermented),Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,24200,24508,No,-,-,2020-05-11,2020,Q2,5,11
+"Coffee, tea, mate and spices",2020-04-27,2020,Q2,4,27,India,2020-04-11,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,270,345,No,-,-,2020-04-28,2020,Q2,4,28
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,India,2020-04-28,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,1000,1011.2,No,-,-,2020-05-20,2020,Q2,5,20
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,India,2020-04-28,904220019,Other,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,17000,17190.4,No,-,-,2020-05-20,2020,Q2,5,20
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,China,2020-05-06,9022000,Other green tea (not fermented),Yes,Satisfactory,No,-,No,-,No,-,22000,22280,No,-,-,2020-05-14,2020,Q2,5,14
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,India,2020-04-28,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,3645,3713.04,No,-,-,2020-05-20,2020,Q2,5,20
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,China,2020-04-29,9024000,Other black tea (fermented) and other partly fermented tea,Yes,Satisfactory,No,-,No,-,No,-,22440,22748,No,-,-,2020-05-06,2020,Q2,5,6
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,China,2020-04-29,9022000,Other green tea (not fermented),Yes,Satisfactory,No,-,No,-,No,-,20000,20300,No,-,-,2020-05-14,2020,Q2,5,14
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,Viet Nam,2020-04-29,9081200,Crushed or ground,No,-,No,-,No,-,No,-,11625,12250,No,-,-,,,,,
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,China,2020-04-29,9024000,Other black tea (fermented) and other partly fermented tea,Yes,Satisfactory,No,-,No,-,No,-,10000,10150,No,-,-,2020-05-21,2020,Q2,5,21
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,China,2020-05-09,904220011,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,25000,25200,No,-,-,2020-05-18,2020,Q2,5,18
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,China,2020-04-29,9024000,Other black tea (fermented) and other partly fermented tea,No,-,No,-,No,-,No,-,449500,542,No,-,-,,,,,
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,China,2020-04-29,904220011,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,No,-,No,-,No,-,20000,21000,No,-,-,2020-05-04,2020,Q2,5,4
+"Coffee, tea, mate and spices",2020-04-29,2020,Q2,4,29,China,2020-05-09,904220011,Peppers (sweet or other than sweet) (Capsicum spp.),Yes,Satisfactory,No,-,No,-,No,-,25000,25200,No,-,-,2020-05-05,2020,Q2,5,5
+"Coffee, tea, mate and spices",2020-04-30,2020,Q2,4,30,India,2020-04-30,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,960,1040,No,-,-,2020-05-01,2020,Q2,5,1
+"Coffee, tea, mate and spices",2020-04-30,2020,Q2,4,30,India,2020-04-30,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,660,715,No,-,-,2020-05-01,2020,Q2,5,1
+"Coffee, tea, mate and spices",2020-04-30,2020,Q2,4,30,India,2020-04-30,904220019,Other,Yes,Satisfactory,No,-,No,-,No,-,1800,2175,No,-,-,2020-05-01,2020,Q2,5,1
+"Coffee, tea, mate and spices",2020-04-07,2020,Q2,4,7,United States,2020-04-07,9021000,Green tea (not fermented) in immediate packings of a content not exceeding 3|kg,No,-,No,-,No,-,No,-,291.22,704.49,No,-,-,,,,,
+"Coffee, tea, mate and spices",2020-04-07,2020,Q2,4,7,United States,2020-04-07,9023000,"Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3|kg",No,-,No,-,No,-,No,-,403.27,704.49,No,-,-,,,,,
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-03-25,8042090,Dried,Yes,Satisfactory,No,-,No,-,No,-,24000,25100,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-02,2020,Q2,4,2,Turkey,2020-03-26,8042090,Dried,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Not Satisfactory,8600,8944,Yes,Re-Dispatch,Chemical contamination,2020-06-17,2020,Q2,6,17
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,8022200,Shelled,Yes,Satisfactory,No,-,No,-,No,-,4000,4240,No,-,-,2020-04-01,2020,Q2,4,1
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-02-27,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-06,2020,Q2,4,6
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-03-31,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-06,2020,Q2,4,6
+Edible fruits and nuts,2020-04-02,2020,Q2,4,2,Turkey,2020-03-31,8055010,"Lemons (Citrus limon, Citrus limonum)",Yes,Satisfactory,No,-,No,-,No,-,10000,10850,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-03-31,80620,Dried,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,10400,11917,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-03-31,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,2000,2080,No,-,-,2020-04-01,2020,Q2,4,1
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-27,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,2941.5,3188.59,No,-,-,2020-04-01,2020,Q2,4,1
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,675.2,857.5,No,-,-,2020-04-01,2020,Q2,4,1
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,3644,4037.55,No,-,-,2020-04-01,2020,Q2,4,1
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,3000,3120,No,-,-,2020-04-01,2020,Q2,4,1
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-05,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21840,23400,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-03,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-03,2020,Q2,4,3
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-03,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-03,2020,Q2,4,3
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-03,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-03,2020,Q2,4,3
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-05,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-03,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-03,2020,Q2,4,3
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-01,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-05,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-05,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-05,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-05,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,22290.4,No,-,-,2020-04-14,2020,Q2,4,14
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,16128,16800,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-02,2020,Q2,4,2,Turkey,2020-04-02,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,22290.4,No,-,-,2020-04-14,2020,Q2,4,14
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20160,21000,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-05,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-03,2020,Q2,4,3
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-05,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-03,2020,Q2,4,3
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-05,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-03,2020,Q2,4,3
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-03,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,8136,9492,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-05,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-05,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20160,21160,No,-,-,2020-04-01,2020,Q2,4,1
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21890.4,No,-,-,2020-04-06,2020,Q2,4,6
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-01,2020,Q2,4,1
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-01,2020,Q2,4,1
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,No,-,No,-,No,-,No,-,20750,22398,No,-,-,,,,,
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,United States,2020-03-30,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20167,No,-,-,2020-04-03,2020,Q2,4,3
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Serbia,2020-04-08,8112031,Raspberries,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,No,-,22572,23724.95,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,8526,10963,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,United States,2020-03-30,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20249,No,-,-,2020-04-03,2020,Q2,4,3
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,24000,25542,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-01,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-03-29,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-03-29,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-03-29,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-02,2020,Q2,4,2
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20625,21450,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20625,21450,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-02,8042090,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21616,No,-,-,2020-04-03,2020,Q2,4,3
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-02,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20160,21160,No,-,-,2020-04-01,2020,Q2,4,1
+Edible fruits and nuts,2020-04-01,2020,Q2,4,1,Turkey,2020-04-07,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-02,2020,Q2,4,2,Turkey,2020-03-29,8022200,Shelled,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,7000,7350,No,-,-,2020-04-14,2020,Q2,4,14
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-02,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,21546,23700.6,No,-,-,2020-04-14,2020,Q2,4,14
+Edible fruits and nuts,2020-04-02,2020,Q2,4,2,Turkey,2020-04-08,8042090,Dried,Yes,Satisfactory,No,-,No,-,No,-,8136,9492,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-02,2020,Q2,4,2,Turkey,2020-04-02,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,16830,17830,No,-,-,2020-04-03,2020,Q2,4,3
+Edible fruits and nuts,2020-04-02,2020,Q2,4,2,Turkey,2020-04-08,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,712.8,884,No,-,-,2020-04-11,2020,Q2,4,11
+Edible fruits and nuts,2020-04-02,2020,Q2,4,2,Turkey,2020-04-08,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,72,90,No,-,-,2020-04-11,2020,Q2,4,11
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-08,806203090,Other,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,21000,21840,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-06,2020,Q2,4,6
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-06,2020,Q2,4,6
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-09,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-09,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-09,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,United States,2020-04-13,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20158,No,-,-,2020-04-14,2020,Q2,4,14
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-06,2020,Q2,4,6
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,United States,2020-04-13,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20439,No,-,-,2020-04-14,2020,Q2,4,14
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,United States,2020-04-13,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20412,No,-,-,2020-04-14,2020,Q2,4,14
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-06,2020,Q2,4,6
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-06,2020,Q2,4,6
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-04,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,Turkey,2020-04-08,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,United States,2020-04-13,8025200,Shelled,Yes,Satisfactory,No,-,No,-,No,-,19051,19169,No,-,-,2020-04-18,2020,Q2,4,18
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,United States,2020-04-13,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20140,No,-,-,2020-04-18,2020,Q2,4,18
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,United States,2020-04-13,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20149,No,-,-,2020-04-18,2020,Q2,4,18
+Edible fruits and nuts,2020-04-03,2020,Q2,4,3,United States,2020-04-13,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20094,No,-,-,2020-04-18,2020,Q2,4,18
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-06,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,5040,6468,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-06,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,5000,5200,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-06,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,10000,10400,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-06,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,10000,10400,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-06,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-03,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21250,24750,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-08,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,23375,24750,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-02,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,22280,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-15,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-15,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,17100,17955,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-15,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,16128,16800,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,17100,17955,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-06,2020,Q2,4,6,China,2020-04-09,813409510,Goji berries (wolfberries) (Lycium barbarum L.),Yes,Satisfactory,No,-,No,-,No,-,240,320,No,-,-,2020-04-14,2020,Q2,4,14
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-22,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-09,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-09,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-08,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,3598.56,4315.5,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-09,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-09,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-09,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-09,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,876.96,1083.44,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-09,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,7000,7280,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-08,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,1056,1281.98,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-08,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,352.8,421.84,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-08,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,4340,4547.24,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-03-23,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,60000,62400,No,-,-,2020-04-07,2020,Q2,4,7
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,China,2020-04-11,810907510,Goji berries (wolfberries) (Lycium barbarum L.),Yes,Satisfactory,No,-,No,-,No,-,1200,1296,No,-,-,2020-04-14,2020,Q2,4,14
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-09,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21840,23587.2,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-15,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,18500,19240,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-08,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,10000,10400,No,-,-,2020-04-11,2020,Q2,4,11
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,19560,20375,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-08,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,10000,10400,No,-,-,2020-04-11,2020,Q2,4,11
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-08,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,4875,5070,No,-,-,2020-04-11,2020,Q2,4,11
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-08,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,8000,8320,No,-,-,2020-04-11,2020,Q2,4,11
+Edible fruits and nuts,2020-04-07,2020,Q2,4,7,Turkey,2020-04-08,8042090,Dried,Yes,Satisfactory,No,-,No,-,No,-,7000,7350,No,-,-,2020-04-11,2020,Q2,4,11
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-15,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,19560,20375,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,5880,7224,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-13,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,23375,24750,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-08,8042090,Dried,Yes,Satisfactory,No,-,No,-,No,-,4165,4940,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-24,2020,Q2,4,24,Turkey,2020-04-21,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,22312.5,23625,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,24000,25542,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-07,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,11059.2,12614.4,No,-,-,2020-04-11,2020,Q2,4,11
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-08,2020,Q2,4,8
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,80620,Dried,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,20750,22398,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-17,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-17,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-17,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-17,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-17,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,United States,2020-04-13,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958.08,20030.66,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-17,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-17,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-17,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-17,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-03-18,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,2500,2600,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-11,2020,Q2,4,11
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-11,2020,Q2,4,11
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-08,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,1755,1900,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-11,2020,Q2,4,11
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-08,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,14670,15900,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-03-18,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,4325,4490,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-03-18,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,2400,2480,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-15,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20625,21450,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-15,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-08,2020,Q2,4,8,Turkey,2020-04-09,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21890.4,No,-,-,2020-04-09,2020,Q2,4,9
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-12,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,13230,14230,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-09,8055010,"Lemons (Citrus limon, Citrus limonum)",Yes,Satisfactory,No,-,No,-,No,-,5850,6300,No,-,-,2020-04-14,2020,Q2,4,14
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-19,8022200,Shelled,Yes,Satisfactory,No,-,No,-,No,-,1000,1030,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-19,8022200,Shelled,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,12000,12250,No,-,-,2020-04-29,2020,Q2,4,29
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-09,8042090,Dried,Yes,Satisfactory,No,-,No,-,No,-,21000,21616,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,16000,16640,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,5000,5200,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-09,2020,Q2,4,9,Turkey,2020-04-03,8022200,Shelled,Yes,Satisfactory,No,-,No,-,No,-,23000,24058,No,-,-,2020-04-14,2020,Q2,4,14
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21890.4,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21890.4,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21890.4,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-10,2020,Q2,4,10,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-10,2020,Q2,4,10,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-10,2020,Q2,4,10,Turkey,2020-04-14,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-10,2020,Q2,4,10,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-10,2020,Q2,4,10,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-13,2020,Q2,4,13,China,2020-04-08,813409510,Goji berries (wolfberries) (Lycium barbarum L.),Yes,Satisfactory,No,-,No,-,No,-,490,520,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-15,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,17150,18375,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-15,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,17150,18375,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-15,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,17100,17955,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-15,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,19560,20375,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-15,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,8136,9492,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-15,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,16128,16800,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-15,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-15,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,8136,9492,No,-,-,2020-04-18,2020,Q2,4,18
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-15,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,17100,17955,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-14,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,9945,11677,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-14,8022200,Shelled,Yes,Satisfactory,No,-,No,-,No,-,21000,21640,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-11,8022200,Shelled,Yes,Satisfactory,No,-,No,-,No,-,8000,8192,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-11,8022200,Shelled,Yes,Satisfactory,No,-,No,-,No,-,8000,8192,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-10,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,21900,22776,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-13,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,500,520,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-14,2020,Q2,4,14,Turkey,2020-04-13,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,200,208,No,-,-,2020-04-15,2020,Q2,4,15
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-03,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,5475,5713.8,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-03,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,4325,4490,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-03,8062010,Currants,Yes,Satisfactory,No,-,No,-,No,-,625,650,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-22,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-22,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,4763,5949,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,4082,5171,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,2000,2080,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,2358,2612.66,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,5850,6703,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,8700,9211.56,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,5850,6703,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,1300,1376.44,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-23,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-23,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-23,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,22032,23409,No,-,-,2020-04-20,2020,Q2,4,20
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,1290,1398.36,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,1312.5,1420.13,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-23,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,4205,4452.25,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-03-31,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,4000,4160,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,3000,3120,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-14,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,2250,2340,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-14,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,18750,19500,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-22,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,16128,17000,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-22,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-14,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-16,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,17656,19600,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,20000,21175,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-22,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-20,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,19560,21200,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-14,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-14,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-22,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-14,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-14,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-14,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-22,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-14,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-22,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-14,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-15,2020,Q2,4,15,Turkey,2020-04-14,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20625,21450,No,-,-,2020-04-16,2020,Q2,4,16
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-22,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-22,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-21,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21890.4,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-15,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-17,2020,Q2,4,17
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,United States,2020-04-16,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,11339,11884,No,-,-,2020-04-20,2020,Q2,4,20
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,China,2020-04-18,813409510,Goji berries (wolfberries) (Lycium barbarum L.),Yes,Satisfactory,No,-,No,-,No,-,1500,1906,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-21,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21840,23400,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-21,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21840,23400,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-16,2020,Q2,4,16,Turkey,2020-04-21,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21840,23400,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-16,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21890.4,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-20,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-19,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,9945.6,12950,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Viet Nam,2020-04-27,810902010,Pitahaya (dragon fruit),Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,3200,3600,No,-,-,2020-04-29,2020,Q2,4,29
+Edible fruits and nuts,2020-04-30,2020,Q2,4,30,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,10000,10400,No,-,-,2020-04-30,2020,Q2,4,30
+Edible fruits and nuts,2020-04-30,2020,Q2,4,30,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,10000,10400,No,-,-,2020-04-30,2020,Q2,4,30
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-23,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-23,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-23,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-23,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-24,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,10000,10400,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,806203090,Other,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,21000,21840,No,-,-,2020-05-06,2020,Q2,5,6
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-24,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,10000,10400,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-24,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,600,624,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,8131000,Apricots,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,20000,20800,No,-,-,2020-05-01,2020,Q2,5,1
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-24,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,80620,Dried,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,20000,28000,No,-,-,2020-05-01,2020,Q2,5,1
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,28000,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,28000,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,28000,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,28000,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,4067,4997,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-23,2020,Q2,4,23,Turkey,2020-04-17,8042090,Dried,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,No,-,4974,5899,No,-,-,2020-04-28,2020,Q2,4,28
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,20500,21320,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,8029,10184,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-17,2020,Q2,4,17,Turkey,2020-04-17,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,13000,13520,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-17,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,5000,5200,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-18,2020,Q2,4,18,United States,2020-05-11,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20031,No,-,-,2020-05-07,2020,Q2,5,7
+Edible fruits and nuts,2020-04-18,2020,Q2,4,18,United States,2020-04-27,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20031,No,-,-,2020-04-28,2020,Q2,4,28
+Edible fruits and nuts,2020-04-18,2020,Q2,4,18,United States,2020-04-27,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20031,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-22,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-22,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-23,8022200,Shelled,Yes,Satisfactory,No,-,No,-,No,-,12000,12250,No,-,-,2020-04-29,2020,Q2,4,29
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-20,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,2000,2080,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,1000,1040,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,10000,10400,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,5000,5200,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,5000,5200,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-21,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,1408,1709.31,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-21,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,2940,3528,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-21,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,13552,14524.19,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-22,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,17100,17955,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-21,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,352.8,421.84,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-26,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21840,23400,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-22,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,17100,17955,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-22,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,16128,16800,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,16740,18415,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-22,8042090,Dried,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,Yes,Satisfactory,4740,5215,No,-,-,2020-05-01,2020,Q2,5,1
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-26,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21840,23400,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-26,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,21840,23400,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-22,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20160,21000,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-22,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,16128,16128,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-22,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,17150,18375,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,Turkey,2020-04-23,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-20,2020,Q2,4,20,United States,2020-04-20,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20666,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-14,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-14,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-21,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-21,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-21,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,20000,20800,No,-,-,2020-04-21,2020,Q2,4,21
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-29,806203090,Other,No,-,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-29,2020,Q2,4,29
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-29,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-30,2020,Q2,4,30
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-29,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-30,2020,Q2,4,30
+Edible fruits and nuts,2020-04-28,2020,Q2,4,28,Turkey,2020-04-29,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-29,2020,Q2,4,29
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-29,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-30,2020,Q2,4,30
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-30,8022200,Shelled,Yes,Satisfactory,No,-,No,-,No,-,9880,10000,No,-,-,2020-05-01,2020,Q2,5,1
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-29,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,20375,21190,No,-,-,2020-04-30,2020,Q2,4,30
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Turkey,2020-04-28,8062030,Sultanas,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-28,2020,Q2,4,28
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,China,2020-04-25,813409510,Goji berries (wolfberries) (Lycium barbarum L.),Yes,Satisfactory,No,-,No,-,No,-,4500,4800,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,China,2020-04-25,813409510,Goji berries (wolfberries) (Lycium barbarum L.),Yes,Satisfactory,No,-,No,-,No,-,8000,8810,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,Malaysia,2020-04-22,810902020,Jackfruit (Artocarpus heterophyllus),Yes,Satisfactory,No,-,No,-,No,-,321.3,612,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,United States,2020-05-11,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20031,No,-,-,2020-05-08,2020,Q2,5,8
+Edible fruits and nuts,2020-04-21,2020,Q2,4,21,United States,2020-05-11,8025100,In shell,Yes,Satisfactory,No,-,No,-,No,-,19958,20031,No,-,-,2020-05-09,2020,Q2,5,9
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-26,8062090,Other,Yes,Satisfactory,No,-,No,-,No,-,5940,6737.76,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-26,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,1320,1497.28,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-26,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,5197.5,6021.99,No,-,-,2020-04-24,2020,Q2,4,24
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-21,806203090,Other,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-22,2020,Q2,4,22
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-22,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,5158.4,6425,No,-,-,2020-04-27,2020,Q2,4,27
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,2625,2840.25,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,900,994.2,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,900,994.2,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-23,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,7224,7830.82,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-23,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,8250,8580,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-23,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,1800,1939.2,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-23,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,2535,2709.41,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-23,80620,Dried,Yes,Satisfactory,No,-,No,-,No,-,1125,1207,No,-,-,2020-04-23,2020,Q2,4,23
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-29,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-30,2020,Q2,4,30
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-29,8131000,Apricots,Yes,Satisfactory,No,-,No,-,No,-,21000,21840,No,-,-,2020-04-30,2020,Q2,4,30
+Edible fruits and nuts,2020-04-22,2020,Q2,4,22,Turkey,2020-04-20,8022200,Shelled,Yes,Satisfactory,No,-,No,-,No,-,6000,6144,No,-,-,2020-04-30,2020,Q2,4,30
